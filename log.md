@@ -14,5 +14,13 @@
 
 **Thoughts:**  Only about 30 minutes today.  Missed yesterday due to work and life. Tomorrow is another day.
 
-**Link(s) to work**
+**Link(s) to work**  
 
+### Day 11: June 11, 2017
+
+**Today's Progress**: Finished Code Academy HTML CSS Intro (Finally.)  Finished a very basic portfolio page.
+
+**Thoughts:**  Terrible gap in updating.  Due to crazy work schedules and tired, have not been as consistent on coding.  I feel like I have made progress on my personal portfolio. Finally got my portfolio/photos to layout properly.  Had issues with social media icons listings, was given bad advice about the order of <li> and <a> references.  It was actually a consolidation of html elements.  Font Awesome info showed using <i> command in addition to <a>, which caused issues.  Combining all of the elements to the a element fixed the problem.
+
+**Link(s) to work**
+https://codepen.io/insrtbrain/pen/LLNdRq/
